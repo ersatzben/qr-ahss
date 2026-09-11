@@ -1,0 +1,467 @@
+                                                                               Guidance
+                                                                            RE-P-2019-05
+
+
+
+
+Research and
+knowledge exchange
+funding for 2019-20
+Recurrent grants and formula capital
+allocations
+This document summarises our main recurrent
+funding and formula capital to higher education
+institutions for 2019-20.
+
+
+
+
+Web: www.re.ukri.org
+Twitter: @ResEngland
+Email: Subscribe to email alerts
+
+
+
+© Research England 2019
+This publication is available under the Open Government Licence 3.0.
+http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+                                                                                                                      RE-P-2019-05
+
+
+
+
+Title of publication
+To                                       Heads of Research England-funded higher education
+                                         institutions
+
+Of interest to those                     Finance, planning.
+responsible for
+
+Reference                                RE-P-2019-05
+
+Publication date                         26 July 2019
+
+Enquiries to                             annualfunding@re.ukri.org
+
+
+
+
+Contents
+
+Summary .............................................................................................................................. 3
+
+Research and knowledge exchange funding for 2019-20 .............................................. 5
+
+Introduction ...........................................................................................................................5
+Research England budget for the 2019-20 academic year ..................................................5
+The funding method for research..........................................................................................6
+Knowledge exchange funding (Higher Education Innovation Funding, HEIF) .....................7
+Recurrent funding outcomes for institutions .........................................................................8
+Capital grants ........................................................................................................................8
+Funding for national facilities and initiatives .........................................................................9
+2019-20 Terms and conditions of funding ............................................................................9
+Use of formula-based research capital allocations ............................................................. 10
+Further information ..............................................................................................................10
+Annex A: Institutional allocations ........................................................................................11
+
+
+
+
+                                                                  2
+                                                                                             RE-P-2019-05
+
+
+
+
+Summary
+Research England is responsible for funding research and knowledge exchange in
+English universities. This document summarises our allocations to institutions in
+2019-20. Recurrent funding is provided for the academic year (August 2019 to
+July 2020) and formula capital for the financial year (April 2019 to March 2020).
+For 2019-20, the overall grant1 we will be distributing is £2,190 million:
+          £1,744 million for recurrent research grant, comprising:
+           o    £1,697 million allocated by formula
+           o    £46 million for national facilities and initiatives
+          £29 million for the Strategic Priorities Fund
+          £213 million for knowledge exchange2
+          £204 million for capital funding
+           o    £183 million for formula-based research capital
+           o    £21 million for national facilities and initiatives
+
+
+This publications sets out the formula driven elements of the above funding, amounting
+to £2,093 million, and excludes allocations for the Strategic Priorities Fund which will
+be announced at a later date.
+
+
+
+
+1 Figures exclude funding for the Connecting Capability Fund, the Research England Development Fund,
+
+
+and University Enterprise Zones.
+2 This incorporates an additional £3 million compared to the figure announced earlier this month in Circular
+
+
+Letter ‘Funding for higher education institutions for 2019-20’ (RE-CL-2019-03).
+
+                                                     3
+                                                                                RE-P-2019-05
+
+
+
+
+This publication sits alongside three others:
+           A covering letter and grant tables for each institution
+           ‘2019-20 Recurrent research and knowledge exchange funding: technical
+            guidance’, a technical document that explains in detail how the figures in the
+            grant tables are derived.
+           Our ‘Guide to research and knowledge exchange funding 2019-20’ (RE-P-
+            2019-03), which explains the methods used to calculate our grant in more
+            detail.
+These documents are available on the Research England website3.
+This publication is of interest to anybody who wants to know about the funding
+distributed by Research England, but as we will not go into the detail of our funding
+methods, it is recommended that you consult our other documents as necessary.
+Institutions received details of their individual grant allocations on 24 July 2019.
+
+
+
+
+3 See https://re.ukri.org/
+
+
+
+                                               4
+                                                                              RE-P-2019-05
+
+
+
+
+Research and knowledge exchange
+funding for 2019-20
+Introduction
+1.   This publication summarises our formula-based recurrent grant allocations for
+     research, knowledge exchange, and research capital. Following the budgets we
+     announced on 2 July 2019, we have confirmed the allocations for individual
+     institutions, which are outlined in this document. Unless otherwise stated, all years
+     in this document relate to academic years.
+
+
+Research England budget for the 2019-20
+academic year
+2.   The government’s guidance to Research England confirmed the funding available
+     to us for the 2019-20 financial year4. The letter also identified the policies and
+     priorities that should underpin our approach to funding.
+
+3.   In the light of the guidance, we have agreed budgets for 2019-20. In doing so, we
+     have made a modest assumption for the value of recurrent research funding for
+     financial year 2020-21. This assumption is required due to overlap between the
+     2019-20 academic year and 2020-21 financial year. Any changes to the
+     government funding available next year could affect the funding we are able to
+     distribute to institutions in the 2019-20 academic year. This may mean we need to
+     revise these allocations later.
+
+4.   The total grant we are distributing in 2019-20 is £2,157 million, and this is broken
+     down as shown in Table A.
+
+Table A: Research England grant to be distributed in 2019-20
+
+  Funding stream                                                            Total (£M)
+  Allocations made by academic year
+  Institutional recurrent funding, made up of:
+     Quality-related research (QR) funding – excluding GCRF                         1,630
+     QR – Global Challenges Research Fund (GCRF)                                         68
+
+
+
+
+4 See https://re.ukri.org/finance/guidance-from-beis-to-re-for-2019-20/
+
+
+
+
+                                                      5
+                                                                                         RE-P-2019-05
+
+
+
+
+  Funding stream                                                                      Total (£M)
+      Higher Education Innovation Funding (HEIF)                                                  213
+  Total institutional recurrent funding                                                         1,910
+  National facilities and initiatives                                                              46
+  Strategic Priorities Fund                                                                        29
+ Total allocations (academic year basis)                                                        1,986
+
+
+  Allocations made by financial year
+      Formula-based research capital                                                              183
+      National facilities and initiatives                                                          21
+  Total allocations (financial year basis)                                                        204
+
+Note: Figures may not sum due to rounding. Figures exclude funding for the Connecting Capability Fund,
+the Research England Development Fund, and University Enterprise Zones.
+
+5.     Table B shows how the above recurrent funding total is split between different
+       elements of grant.
+
+Table B: 2019-20 Budgets for elements of recurrent grant
+
+     Elements of grant                                                                                   Total (£M)
+  Recurrent funding for research (excluding GCRF)
+         Mainstream quality-related research (QR) funds including London weighting                             1,095
+         QR research degree programme (RDP) supervision funds                                                    260
+         QR charity support fund                                                                                 204
+         QR business research element                                                                             64
+         QR funding for National Research Libraries                                                                   7
+  Total recurrent research (excluding GCRF)                                                                    1,630
+  QR Global Challenges Research Fund                                                                              68
+  Knowledge exchange (Higher Education Innovation Funding)                                                       213
+  Total recurrent grant                                                                                        1,910
+
+6.     Table 1 in Annex A summarises the recurrent research and knowledge exchange
+       funding for each institution, and is available to download alongside this document
+       as a separate file. For 2019-20 we are including allocations for the QR Global
+       Challenges Research Fund in this grant announcement.
+
+
+The funding method for research
+7.     The underlying policy intent for our research funding, as set out in government
+       guidance, is unchanged from previous years:
+
+
+                                                   6
+                                                                              RE-P-2019-05
+
+
+
+
+        ‘to continue competitive allocations through the selective funding of world-
+        leading and internationally excellent research with impact wherever it is found;
+        to provide selective support for the next generation of researchers; and to
+        recognise research funding leveraged from external sources such as the
+        charitable and business sectors.’
+
+8.   Funding for research is informed by the results of the 2014 Research Excellence
+     Framework.5 This demonstrated the world-leading quality of research conducted in
+     UK higher education institutions and highlighted the wide-ranging and significant
+     benefits that UK research brings to the economy and society.
+
+9.   For 2019-20 we are increasing the total funding for mainstream quality-related
+     research (QR), including London weighting, by £45 million from £1,050 million to
+     £1,095 million. Funding for the 2019-20 Global Challenges Research Fund is
+     increased by £10 million from £58 million to £68 million.
+
+10. Other elements of recurrent research funding will be maintained in cash terms for
+    2019-20, including: £260 million for QR research degree programme (RDP)
+    supervision, £204 million for QR charities research, £64 million for QR business
+    research, and £7 million for national research libraries.
+
+11. There will be no change to the funding method for research, except for an
+    adjustment to the subject cost weighting for Unit of Assessment 4: Psychology,
+    psychiatry and neuroscience from 1.42 to 1.6. The revised weighting will be
+    applied within the mainstream QR funding method and QR RDP supervision
+    funding.
+
+
+Knowledge exchange funding (Higher Education
+Innovation Funding, HEIF)
+
+12. Our formula-based knowledge exchange funding (through HEIF) provides
+    incentives for and supports institutions to work with business, public and third-
+    sector organisations, community bodies and the wider public, with a view to
+    exchanging knowledge and thereby increasing economic and social benefit.
+
+
+13. Knowledge exchange totals £213 million, of which £166 million is taken from ring-
+    fenced science and research funding, and £47 million transferred from the Office
+    for Students (OfS)’s teaching budget. This total is divided into a main allocation of
+    £203 million and a supplement of £10 million. Allocations for 2019-20 are
+    calculated using Higher Education – Business and Community Interaction (HE-
+
+
+
+5 See www.ref.ac.uk/2014/pubs/201401/.
+
+
+
+                                            7
+                                                                                         RE-P-2019-05
+
+
+
+
+     BCI) survey data for 2015-16 to 2017-18, but also reflect decisions on the
+     acceptability of institutions’ five-year knowledge exchange strategies.
+
+14. There will be no change to the funding method for knowledge exchange, except
+    that the maximum year-on-year increase for institutions now returns to 10 per cent
+    (compared to 30 per cent for the 2018-19 allocations).
+
+15. A supplement is provided to institutions whose main allocation is capped at the
+    maximum, to enable their knowledge exchange strategies to be enhanced where
+    there is evidence that the cap on funding is a constraint on their support of
+    economic growth.
+
+
+Recurrent funding outcomes for institutions
+16. As a result of the changes described above, most institutions will receive different
+    amounts of grant in 2019-20 from what they received in 2018-19. Institutions may
+    also see differences because of changes, relative to the sector as a whole, to
+    their:
+
+     a.    Postgraduate research student numbers and research income data. Such
+           changes affect institutions’ share of the RDP supervision funds, the charity
+           support fund and the business research element.
+
+     b.    HE-BCI survey data, Higher Education Statistics Agency (HESA) Finance
+           record data and Knowledge Transfer Partnerships data. Such changes affect
+           institutions’ share of knowledge exchange funding.
+
+
+Capital grants
+17. The capital funding made available to us by Government for the financial year
+    2019-20 totals £204 million6. The total that we are distributing comprises:
+
+          £183 million for formula-based research capital.
+
+          £21 million for national facilities and initiatives.
+
+18. Table 2 of Annex A shows the distribution between institutions of £183 million of
+    formula-based research capital allocations, comprising:
+
+     a.    ‘HEI Research Capital England’, totalling £96 million, will be allocated in
+           proportion to 2017-18 and 2018-19 recurrent QR funding and research
+
+
+
+
+6 This total excludes funding allocated through the UK Research Partnership Investment Fund, where
+
+
+awards are made through a competitive bidding process.
+
+                                                   8
+                                                                                      RE-P-2019-05
+
+
+
+
+          income (for 2016-17 and 2017-18) from other selected (non-Research
+          Council) sources.
+
+     b.   ‘Higher Education Research Capital (HERC) England’, totalling £87 million,
+          will continue to be allocated in proportion to research income from Research
+          Councils, reflecting finance data for the most recent three years.
+
+     We are not providing allocations in 2019-20 to institutions whose share of the
+     funds would be less than £10,000.
+
+
+Funding for national facilities and initiatives
+19. We aim to provide as much as possible of our funding for research and knowledge
+    exchange through recurrent grant allocations to institutions. Further allocations, in
+    the form of funding for national facilities and initiatives, are provided for specific
+    purposes and to promote change that cannot easily be achieved through other
+    routes. We are allocating £46 million from our recurrent research and knowledge
+    exchange grant and £21 million from formula-based capital funding for these
+    purposes. The distribution of this funding is not shown in this publication7.
+
+
+
+2019-20 Terms and conditions of funding
+20. The terms and conditions of funding set out the formal relationship between UK
+    Research and Innovation and the providers that it funds in relation to funds
+    administered through Research England. The final terms and conditions applicable
+    to funding provided to higher education providers for the 2019-20 academic year
+    will be published on our website by 1 August 2019. The terms and conditions
+    include those related to provision of data and compliance with governance and
+    data assurance requirements. Providers should read the terms and conditions in
+    conjunction with this publication.
+
+21. Research England’s funding powers under the Higher Education and Research
+    Act 2017 are linked to the definition of eligible higher education providers as set by
+    the Office for Students (OfS) and prescribed in detail by the OfS’s regulatory
+    framework, effective from 1 August 2019.
+
+
+
+
+7 For more information, see ‘Guide to Research and Knowledge Exchange Funding 2019-20’, pages 24 to
+
+
+26
+
+                                                 9
+                                                                               RE-P-2019-05
+
+
+
+
+Use of formula-based research capital allocations
+22. Capital funding is provided on a financial year basis and must be used for the
+    purpose intended. Research England is not permitted to make payments to
+    institutions in advance of need and thus require capital grants to be spent in full by
+    March 2020. Research England funding should not be used for advance payments
+    to contractors, or other financing arrangements (such as bonds) where payments
+    precede production of goods or delivery of services.
+
+23. Allocations of capital funding announced in this document are provided to sustain
+    and strength the facilities and infrastructure that underpin research and enhance
+    the research environment at institutions. The funds may:
+
+        Contribute to the long-term financial sustainability of an institution’s research
+         and the supporting physical infrastructure
+
+        Contribute to replacement of premises or infrastructure, improved space
+         utilisation, and increased sharing and utilisation of research equipment
+
+        Promote collaborative partnerships between institutions, industry, charities,
+         Government and NHS Trusts
+
+        Promote world-leading research capability in all disciplines with the capacity
+         to respond to developing national priorities.
+
+24. Capital funding must be used for the purposes intended, though we recognise that
+    it may be neither feasible nor desirable to create ring-fenced boundaries between
+    research and teaching facilities. We look to institutions to adopt a pragmatic
+    approach, whereby capital projects primarily focus on research activities.
+
+25. In deciding how these funds are spent we expect institutions to take account of the
+    need to reduce carbon emissions as well as securing value for money.
+
+26. Institutions will be required to report in 2020 on their use of capital funding
+    allocated during financial years 2018-19 and 2019-20 and these returns may be
+    subject to audit. Further details will be published nearer the time. If we are not
+    satisfied that institutions have used the funds for the purposes described in
+    paragraphs 22 to 25, we may seek to reclaim some or all of the funding provided.
+
+
+Further information
+27. Institutions requiring further information should contact annualfunding@re.ukri.org.
+
+
+
+
+                                            10
+                                                                           RE-P-2019-05
+
+
+
+
+Annex A: Institutional allocations
+This is available to download as an Excel file alongside this document at
+https://re.ukri.org/news-events-publications/publications/research-and-knowledge-
+exchange-funding-for-2019-20/.
+This consists of two tables:
+1.   Table 1: Recurrent research and knowledge exchange grants for academic year
+     2019-20
+
+2.   Table 2: Formula-based research capital allocations for financial year 2019-20
+
+
+
+
+                                           11
+

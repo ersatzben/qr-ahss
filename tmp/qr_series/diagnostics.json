@@ -1,0 +1,48 @@
+{
+  "2010-11": {
+    "unresolved_business": 302833.0
+  },
+  "2011-12": {
+    "unresolved_business": 42344.0
+  },
+  "2012-13": {
+    "unresolved_business": 67817.0,
+    "unresolved_charity": 161662.0
+  },
+  "2013-14": {
+    "unresolved_business": 17621.0,
+    "unresolved_charity": 187022.0
+  },
+  "2014-15": {
+    "unresolved_business": 12437.0,
+    "unresolved_charity": 318187.0
+  },
+  "2015-16": {},
+  "2016-17": {},
+  "2017-18": {},
+  "2018-19": {},
+  "2019-20": {
+    "unresolved_charity": 71728.0,
+    "unresolved_business": 87636.0
+  },
+  "2020-21": {
+    "unresolved_charity": 73690.0,
+    "unresolved_business": 76238.0
+  },
+  "2021-22": {
+    "unresolved_charity": 42449.0,
+    "unresolved_business": 51643.0
+  },
+  "2022-23": {
+    "unresolved_charity": 43654.0,
+    "unresolved_business": 46055.0
+  },
+  "2023-24": {
+    "unresolved_charity": 514470.0,
+    "unresolved_business": 279801.0
+  },
+  "2024-25": {
+    "unresolved_charity": 7164497.0,
+    "unresolved_business": 4274018.0
+  }
+}

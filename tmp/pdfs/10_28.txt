@@ -1,0 +1,1008 @@
+                           September 2010/28                   This document asks higher education institutions to
+                                                               update information on their research activity. The
+                           Core funding/operations
+                                                               updated data will inform our distribution of research
+                           Request for data                    funds for the 2011-12 academic year.
+
+                           Returns should be uploaded to the
+                           HEFCE extranet by noon on Tuesday
+                           14 December 2010
+
+
+
+
+       September 2010/28
+
+
+
+                           Research Activity
+                           Survey 2010
+
+
+
+
+Free
+Alternative formats
+This publication can be downloaded from
+the HEFCE web-site (www.hefce.ac.uk)
+under Publications. For readers without
+access to the internet, we can also supply
+it on CD or in large print. For alternative
+format versions please call 0117 931 7431
+or e-mail publications@hefce.ac.uk
+
+
+
+© HEFCE 2010
+The copyright for this publication is held by the
+Higher Education Funding Council for England
+(HEFCE). The material may be copied or
+reproduced provided that the source is                           ON
+                                                                   MEN
+                                                                      TALLY FRIE
+                                                                                ND
+                                                              VIR                LY
+                                                            EN
+
+acknowledged and the material, wholly or in part,
+is not used for commercial gain. Use of the material   TM
+
+
+
+
+for commercial gain requires the prior written
+permission of HEFCE.
+Research Activity Survey 2010
+
+
+To                                   Heads of HEFCE-funded higher education institutions
+                                     Heads of higher education institutions in Northern Ireland
+                                     receiving recurrent funds for research
+Of interest to those responsible for Research funding, Finance, Data collection
+Reference                            2010/28
+Publication date                     September 2010
+Enquiries to                         Vasanthi Waller
+                                     tel 0117 931 7369
+                                     e-mail ras@hefce.ac.uk
+
+
+
+
+                                     Executive summary
+                                     Purpose
+                                     1. This document asks higher education institutions (HEIs) to
+                                     update information on their research activity.
+
+                                     Key points
+                                     2. The Research Activity Survey (RAS) collects data annually on
+                                     postgraduate student numbers and research income from
+                                     charities to inform our allocations of two elements of quality-
+                                     related research (QR) funding: the research degree programme
+                                     supervision fund (RDP) and the charities support fund. The data
+                                     collected in the 2010 survey will inform the distribution of these
+                                     two elements of funding for the 2011-12 academic year.
+                                     3. In order to reduce the number of bespoke data returns we
+                                     require from institutions, we are taking steps towards using data
+                                     on postgraduate research student numbers and research income
+                                     from charities from the Higher Education Statistics Agency
+                                     (HESA) records to inform the RDP supervision fund and the
+                                     charity support fund in the future.
+                                     4. Subject to further work, we intend to switch to using HESA
+                                     data to inform these elements of QR funding for the 2012-13
+                                     allocations onwards. This will mean that the RDP supervision
+                                     fund for 2012-13 would be informed by eligible postgraduate
+                                     research student numbers extracted from the 2010-11 HESA
+                                     student record, and that the charity support fund for 2012-13
+                                     would be informed by the eligible research income from charities
+                                     extracted from the 2009-10 HESA finance statistics return
+                                     (FSR). This would also mean that the RAS would not be
+                                     published for 2011 onwards, although this remains conditional
+                                     on our confidence that the HESA data are sufficiently robust to
+                                     inform funding.
+
+
+                                                                                           HEFCE 2010/28 1
+5. The ‘2009-10 statistics derived from HESA data:           Summary of changes since the 2009 RAS
+web facility’ will include a new table showing an            11. Previously, in any one year, only the first
+indicative allocation of RDP supervision funding             £500,000 of the annual release from the deferred
+based on postgraduate research student numbers               capital grant account of each capital grant was
+extracted from the 2009-10 HESA student data that            eligible to be returned to the RAS. For the 2010
+your institution will be submitting to HESA. We              RAS, we are removing this cap.
+hope this will enable institutions to determine
+                                                             12. Previously, any portion of a research
+whether their systems and processes for returning
+                                                             studentship grant that was marked as being for
+postgraduate research student data to HESA are fit
+                                                             consumables or bench fees was ineligible to be
+for purpose and, if not, correct any areas of
+                                                             returned to the RAS. For the 2010 RAS, such
+weakness before the data are used to inform
+                                                             income will be eligible. Any portion of a research
+funding. During that exercise, institutions may also
+                                                             studentship grant that is to be retained by the
+wish to comment on the suitability of our
+                                                             student for maintenance or living costs will continue
+algorithms for extracting research student numbers
+                                                             to be ineligible.
+to meet the funding eligibility criteria.
+                                                             13. Some postgraduate research students are
+6. We have asked HESA to modify the FSR so that
+                                                             registered on research degrees where the final
+we can extract data on research income from
+                                                             qualification will be jointly awarded by more than
+charities that fit our eligibility criteria for funding as
+                                                             one institution. If all partner institutions are
+closely as possible. We have also made two changes
+                                                             HEFCE-funded institutions then the guidance in
+to the RAS definitions of eligible income in order to
+                                                             Annex A paragraph 14 continues to apply.
+align our criteria with general HESA guidance.
+                                                             However, if one or more of the partner institutions
+These are described in paragraphs 11 and 12.
+                                                             are not HEFCE-funded institutions, then the
+7. All HEIs that made submissions to the 2008                reporting institution should modify the student’s
+Research Assessment Exercise (RAE2008) should                FTE appropriately to capture only the portion of
+complete the 2010 RAS. Where an institution                  the student’s activity that is conducted in the
+wishes to make a nil return it should inform us by           English institution.
+letter or e-mail.
+                                                             Action required
+8. The data reported to this survey must be
+                                                             14. Survey data must be uploaded to the HEFCE
+provided according to the RAE2008 definitions of
+                                                             extranet by noon on Tuesday 14 December 2010.
+units of assessment.
+                                                             15. Survey data must be signed off as correct by
+9. This document provides:
+                                                             the vice-chancellor or principal of the institution by
+a.   Guidance notes for completing the 2010                  Thursday 13 January 2011.
+     Research Activity Survey.
+b.   Definitions used in the 2010 RAS survey
+     (Annexes A and B).
+c.   Examples of the survey tables (Annex C).
+d.   Details of how to obtain workbook templates
+     and upload data (Annex D).
+10. We will make workbooks available to
+nominated data contacts at institutions in
+November 2010.
+
+
+
+
+2 HEFCE 2010/28
+Background                                              21. If a department was not submitted to
+                                                        RAE2008, please return its data to the UOA that is
+16. The 2010 Research Activity Survey (RAS) asks
+                                                        closest in academic content. This provides us with
+higher education institutions (HEIs) to update data
+                                                        totals that we will use, irrespective of RAE2008
+from the 2009 survey on fundable postgraduate
+                                                        quality profile or submission status, to cross-check
+research students who are eligible to pay Home and
+                                                        institutions’ data against other sources such as the
+EU fees. These data will inform the distribution of
+                                                        Higher Education Students Early Statistics (HESES)
+the research degree programme supervision funding
+                                                        survey and the Higher Education Statistics Agency
+for 2011-12.
+                                                        (HESA) finance and student records. For funding
+17. The survey also asks institutions to provide        purposes, only data attributed to UOAs submitted
+information on research income from charities. This     to RAE2008 will be used.
+will inform our charity support element of quality-
+                                                        22. When deciding which specific UOA research
+related research (QR) funds for 2011-12.
+                                                        students and charities income should be returned to,
+18. Data on research-active staff, used to inform       institutions are advised to first identify the lead
+mainstream QR funding, will continue to be taken        researcher (principal investigator) to whom they are
+from the submissions to the 2008 Research               linked. If that lead researcher was returned to
+Assessment Exercise (RAE2008).                          RAE2008, then their research students and research
+                                                        income from charities should be returned to that
+Contents of survey                                      same UOA. If, however, the lead researcher was not
+19. This survey should be completed by HEIs that        returned to RAE2008, their research students and
+made submissions to RAE2008. It asks for the            charities income should be returned to the UOA
+following data by unit of assessment (UOA):             that is closest in academic content.
+a.   Students eligible to pay Home and EU fees (see
+     Annex A, paragraph 27). We ask for the data
+                                                        Outline timetable and process for
+     to be returned by year of course in the            the 2011-12 funding round
+     following way:                                     23. We will use a list of RAS contacts to notify
+                                                        institutions by e-mail of any changes or updates to
+     i.    The headcount of students on research-
+                                                        the survey, and if institutions wish to check or
+           based higher degrees who are full-time in
+                                                        change these contact details they should speak to
+           the year of course that includes
+                                                        their HEFCE higher education policy adviser.
+           1 December 2010.
+                                                        Contact details, searchable by institution, can be
+     ii.   The headcount and full-time equivalent       found on the HEFCE web-site, www.hefce.ac.uk,
+           (FTE) of students on research-based higher   under About us/Contact us.
+           degrees who are part-time in the year of
+                                                        24. In November 2010, an Excel workbook with
+           course that includes 1 December 2010.
+                                                        spreadsheet versions of the tables in Annex C will
+b.   Income from research grants and contracts          be available for institutions to download from the
+     from charities during the 2009-10 financial        HEFCE extranet. The following annexes should be
+     year.                                              used as a guide for completing the return:
+20. This survey allows institutions to make separate    •   Annex A     Notes on research students
+returns for each multiple submission made to a UOA
+                                                        •   Annex B     Notes on research income from
+in RAE2008. If making separate returns for multiple
+                                                                        charities
+submissions is not practical, areas on the return can
+be made available to submit totals for the UOA. The     •   Annex C     Samples of forms for completion
+institution should contact us to obtain the password
+                                                        •   Annex D     Instructions for completing the
+to unlock these rows for editing.
+                                                                        workbook.
+
+
+
+
+                                                                                                HEFCE 2010/28 3
+25. Institutions are required to submit their RAS          13 January 2011. To be reflected in the July grant
+data no later than noon on Tuesday 14 December             announcement, we need to receive any further RAS
+2010. Confirmation that we have received                   data amendments by 20 April 2011. However,
+submissions will be available via the upload page of       because our total budget is limited, we cannot
+the HEFCE extranet. There are validation checks            guarantee to provide additional funding arising
+within the workbook to ensure part-time students           from amendments received after 13 January 2011.
+are returned correctly but, when we receive the            All changes to grant after the initial March
+data, we carry out a number of other validation and        announcement are subject to approval by our
+credibility checks. The data do not need to be             Board; we will not confirm the effects on funding of
+formally signed off by the vice-chancellor or              data changes until that approval has been given.
+principal at this stage. However, it is good practice      After the March grant announcement, the Board
+for a senior member of the institution to agree the        will next consider changes to grant in July so that
+return prior to submission.                                they can be included in the July funding
+                                                           announcement.
+26. During the latter half of December 2010, we
+will write to institutions enclosing a copy of their       29. We will compare data returned on the 2010
+RAS data. Institutions will be asked to:                   RAS and data returned on the 2010 HESES survey.
+                                                           In January 2012, we will compare 2010 RAS data
+•    verify that the data are accurate, or make
+                                                           with the 2010-11 HESA student record. Where we
+     corrections
+                                                           find – through audit, comparison with HESA data,
+•    answer any questions we may have on the data.         or otherwise – that an institution has received larger
+The timetable for this verification process is tight: if   allocations than it should have done, we will reduce
+corrections to data are made we then reissue the           our allocation of the grant for 2011-12 accordingly.
+data for re-verification by institutions. We will
+expect responses to our questions about data within        Returns
+five working days, together with notification of any       30. Returns must be submitted electronically to the
+amendments.                                                HEFCE extranet no later than noon on Tuesday 14
+                                                           December 2010. Annex D contains further details,
+27. By Thursday 13 January 2011, all institutions
+                                                           and a full explanation will be sent out to nominated
+must have signed off their 2010 RAS data as being
+                                                           data contacts with passwords and other relevant
+correct. The data should be signed off by the vice-
+                                                           documentation in November 2010.
+chancellor or principal of the institution, and they
+should assess the return for accuracy and                  31. Further education colleges should not respond
+completeness before signing it off. If an institution      to this survey.
+fails to meet the deadline for signing off data, or we
+believe the data to be inaccurate, we reserve the          Audit
+right to use our own estimates of data to inform           32. We will continue our regular programme of
+funding allocations (see paragraph 18 of ‘Model            audits of data used for funding purposes.
+Financial Memorandum between HEFCE and                     Institutions should therefore keep an adequate audit
+institutions: Terms and conditions for payment of          trail recording how the data were derived, and
+HEFCE grants to higher education institutions’,            should be able to rebuild the return for audit
+HEFCE 2010/19). We cannot guarantee to provide             purposes. Where appropriate, our auditors will also
+additional funding arising from amendments                 seek to rely on any relevant internal audit work that
+received after 13 January 2011.                            has been carried out.
+28. For institutions in England, there are two grant       33. Our audits of data are likely to investigate
+announcements in the year: in March and July. To           areas of concern emerging from past audit findings
+be reflected in the March grant announcement, we           and a review of the systems and protocols used in
+need to receive all RAS data amendments by                 deriving the data returned to the survey by HEIs.
+
+
+
+4 HEFCE 2010/28
+The following aspects of the return are likely to be     reduce this risk, but we also consider it good
+covered:                                                 practice for all institutions to manage this risk
+                                                         effectively, by ensuring that at least two people can
+•   evidence of registration and continuing activity
+                                                         both produce the information for the return and
+    of students
+                                                         prepare the return itself.
+•   documentation supporting year of course for
+                                                         39. In addition, institutions should consider
+    student activity
+                                                         ensuring that the relevant processes are adequately
+•   evidence for the FTE of part-time students           documented and that this documentation is kept up
+•   evidence for the correct reporting of students       to date. This requires all relevant staff, including
+    whose qualification is to be jointly awarded by      experienced staff, to consider the RAS each year
+    more than one institution                            and to make the necessary changes to their systems.
+
+•   reconciliation of RAS and HESES student
+    numbers
+•   evidence that research income from charities
+    returned to the RAS is eligible for return.
+34. We recommend that institutions reconcile the
+2010 RAS return and the 2010 HESES return
+before submitting these returns. In doing so, the
+institution can reassure itself that there are
+legitimate reasons for any differences identified, and
+any working papers retained may greatly assist any
+subsequent audit.
+35. We will compare charity income reported to
+2010 RAS with Table 5b: Research grants and
+contracts – breakdown of income by cost centre of
+the HESA FSR, and with HE-BCI Survey collection
+2009-10 using the columns 2, 7 and 10: UK-based
+charities (Open competitive process); EU-based
+charities (Open competitive process); and Non-EU-
+based charities (Open competitive process).
+36. An institution is more likely to be audited if its
+return is late, incomplete or there are large,
+unexplained differences from previous years’ data.
+37. Previous audit findings will be described in the
+relevant sections of this document and institutions
+should be mindful of these when compiling the
+return.
+38. The knowledge required to prepare the RAS
+return is often undocumented and sometimes lies
+with only one person. This creates a risk that, in the
+absence of the person concerned, particularly at
+crucial times of the year, the institution may not be
+able to prepare the return on time or to the
+appropriate standard. A good audit trail helps to
+
+
+
+                                                                                                   HEFCE 2010/28 5
+Annex A
+Notes on research students
+1. All students included in this survey should be         normally be whole numbers unless a student has
+Home and EU postgraduate students registered at           been split between units of assessment (UOAs).
+the reporting institution for a research-based higher
+                                                          4. The FTE for a part-time programme is
+degree. The students should be actively supervised
+                                                          calculated by comparison with an equivalent full-
+by an academic member of staff employed by a
+                                                          time programme, where such a programme exists.
+higher education institution in England. Students
+                                                          When viewed as a whole, the total FTE for a part-
+who spend more than half of their active study time
+                                                          time programme should equal the total FTE of the
+for the whole programme outside the UK should be
+                                                          equivalent full-time programme. If an equivalent
+excluded from this survey, except where:
+                                                          full-time programme does not exist, a reasonable
+a. There is a clear academic reason for studying          academic judgement should be made of the load
+   abroad rather than in the UK, for example,             relative to a full-time student. Where such a
+   where the student’s research is tied to a specific     judgement is made, the methodology should be
+   archaeological site.                                   recorded for audit purposes.
+b. The student is temporarily and unavoidably             5. In some cases a student may not study for a full
+   abroad and remains liable to UK tax on their           year in their final year of programme of study (for
+   earnings, or is a dependant of such a person.          example, the second year of the course of a 15-
+   This includes members of HM Forces and their           month MPhil programme). Here the student should
+   dependants.                                            be recorded as part-time in their final year, with an
+                                                          FTE reflecting the proportion of a full year for
+                                                          which they have studied. This should be recorded
+    Audit tip: Evidence of student                        even if the student is not actively pursuing studies
+    engagement                                            on 1 December in their final year.
+    Past audits have shown that institutions have an
+    annual internal process for monitoring whether or
+    not students are actively engaged on the course          Audit tip: Part-time loads
+    for which they have registered. The resulting forms      Past audits have shown that institutions assign all
+    are good audit evidence of student activity. Many        part-time students a standard load depending on
+    instances were encountered where such forms              the qualification aim of the student: in the main this
+    were not available for all students selected in the      was 0.5. Institutions had not carried out any
+    sample. We recommend that institutions retain            analysis to ascertain whether students were active
+    such forms until the audit stage is completed.           at this rate. In some instances, evidence
+                                                             suggested that students were more active than
+                                                             that, and in others that they were less so. We
+                                                             recommend that institutions analyse their data to
+2. Data from forms R1a and R1b will be used to               reassure themselves that the part-time loads are
+distribute the research degree programme                     typical of the intensity of part-time activity at their
+supervision fund.                                            institution.
+
+3. The data returned on form R1a should be
+headcounts of students who are full-time in the year
+of course that includes 1 December 2010. Data             6. The year of course is used in the distribution of
+returned on form R1b should be headcounts and             funds for research, and care needs to be taken when
+full-time equivalences (FTEs) of students who are         there is a change in a student’s mode of study. Full-
+part-time in the year of course that includes 1           time students with a part-time final year (see
+December 2010. FTE should normally be expressed           paragraph 5 of this annex) should have this final
+to two decimal places, and headcount should               year returned under the appropriate year of course
+                                                          in the part-time table. In assigning year of course,
+                                                          paragraph 7 of this annex and the examples below
+
+
+6 HEFCE 2010/28
+(paragraphs 9 and 10 of this annex) can be used to         part-time student with 0.25 FTE under year of course
+convert the student’s completed full-time years into       three, their first year of full-time study having been
+part-time years.                                           converted into two years of part-time study.
+7. There may be cases where research students change
+                                                           Example of reporting students who have
+their mode of study from full-time to part-time and
+                                                           changed their mode of study
+vice versa. For simplicity, in such cases, each year of
+                                                           10. A student started a part-time PhD in September
+full-time study should be treated as two years of part-
+                                                           2008, and completed two years with an FTE of 0.5.
+time study in this survey. For example, a student who
+                                                           This student would have been returned to the 2008
+has completed three years of full-time study and is
+                                                           RAS and the 2009 RAS as a part-time student on 1
+then taken on as a part-time student until the
+                                                           December 2008 and 1 December 2009 respectively.
+programme of study is completed, should be shown as
+                                                           If they then decide to continue the degree as a full-
+a seventh-year part-time student during their first year
+                                                           time student, the two part-time years of study
+of part-time study, as an eighth-year student for the
+                                                           would be converted to one full-time year. The
+second year of part-time study, and so on.
+                                                           student should therefore be returned to the 2010
+8. Where a student suspends their study for a period       RAS as one headcount full-time student under year
+of time this needs to be taken into account when the       two of the course.
+student is reported within the Research Activity
+Survey (RAS). As with students progressing according       Examples of reporting students who have
+to a normal timescale, the year of course for students     suspended their study
+who have suspended needs to be incremented on or           11. A student started a full-time PhD on 1
+near the anniversary of their initial registration.        September 2007. They had a period of suspension of
+However, in calculating the student’s FTE, only the        six months starting on 1 March 2008. Assuming this
+portion of the year of course for which they have          student will complete on 28 February 2011, they
+been studying should be reflected. This may affect the     should be returned as:
+mode of study. For example, a student who initially
+                                                           •   2007 RAS: 1.0 FTE full-time in year of course 1
+registered as full-time, completed a full year and then
+suspended for nine months in their second year,            •   2008 RAS: 1.0 FTE full-time in year of course 2
+should be reported as part-time in their second year       •   2009 RAS: 1.0 FTE full-time in year of course 3
+of course if they no longer met the criteria for full-
+                                                           •   2010 RAS: 0.5 FTE part-time in year of course 4.
+time study. To avoid undue complexity, the rule in
+paragraph 7 of this annex regarding the re-                12. However, if a student suspended their study
+computation of the year of study for students who          before the RAS coverage date of 1 December, then a
+change their mode of study will be relaxed for             different pattern of activity would be recorded. So,
+students who have suspended their studies. This may        for example, a student started a full-time PhD on 1
+result in a minimal amount of overfunding or               September 2007. They had a period of suspension of
+underfunding, but these cases will be rare. More           six months starting on 1 September 2008. Assuming
+detailed examples are given in paragraphs 11 and 12        this student will complete on 28 February 2011, they
+of this annex.                                             should be returned as:
+                                                           •   2007 RAS: 1.0 FTE full-time in year of course 1
+Example of reporting students on non-
+standard academic years                                    •   2008 RAS: not returned
+9. A student started a full-time, 15-month MPhil on        •   2009 RAS: 1.0 FTE full-time in year of course 3
+1 September 2009. This student would have been
+returned to the 2009 RAS as one headcount full-time        •   2010 RAS: 0.5 FTE part-time in year of course 4.
+student on 1 December 2009. The student should be
+returned to the 2010 RAS (even though they will not
+be studying on 1 December 2010) as one headcount
+
+
+
+                                                                                                  HEFCE 2010/28 7
+Definitions                                                 15. Some postgraduate research students are
+                                                            registered on research degrees where the final
+Registration                                                qualification will be jointly awarded by more than
+13. For this survey, registration is defined as a           one institution. If all partner institutions are
+binding undertaking by a student to pay a fee for           HEFCE-funded institutions then the guidance in
+tuition, or supervision of research, for a programme        paragraph 14 of this annex continues to apply.
+of study. If all or part of the fee has been waived,        However, if one or more of the partner institutions
+the student will be regarded as registered. A student       are not HEFCE-funded institutions, then the
+is assumed to register with the reporting institution       reporting institution should modify the student’s
+annually on the anniversary of the initial                  FTE appropriately to capture only the portion of
+registration. The simple acceptance of a place does         the student’s activity that is conducted in the
+not qualify a student to be counted in this survey.         English institution.
+
+                                                            Year of course
+     Audit tip: Annual registration of                      16. A student’s first year of course starts when they
+     students                                               first begin studying towards the qualification.
+     A condition of funding is that each year               Subsequent years of course start on or near the
+     institutions obtain a binding undertaking from         anniversary of this date.
+     each student to pay a fee for tuition, or              17. Where a student registers for one research-
+     supervision of research, for a course. Evidence        based higher degree which is an integral part of a
+     of this must be retained and be open to                second, for example, an MPhil progressing to a
+     inspection at the time of an audit. A lack of such     PhD, then this should be treated as a single
+     evidence makes the student ineligible to be            instance, and the year of course should be
+     included in the return.                                incremented accordingly. However, separate
+                                                            research masters courses followed by a PhD should
+                                                            be treated as such in the return, that is, as a one-
+                                                            year research degree followed by a PhD, with the
+14. Where a student has been registered at one              year of course reset accordingly.
+institution and taught under a franchising
+arrangement at another institution, only the
+registering institution should return the student to            Audit tip: Year of course
+this survey. A student can only be registered at one            Accurate records showing students’ current
+institution for any individual qualification. If more           year of course must be maintained. Institutions
+than one institution receives a fee from a student,             should take particular care where a student has
+the institution that receives the largest portion               suspended studies at some stage during the
+should include the student. If the institutions receive         course, or where they have transferred from full-
+the same amount, they must ensure that only one                 time to part-time or vice versa.
+includes the student. In some cases the institution in
+which the student is based collects the fee on behalf
+of another institution. Where this is the case, if the
+fee is transferred to another institution, the
+institution to which the fee is transferred should
+include the student. If the fee itself is not transferred
+but is used to offset payments between two
+institutions in respect of the student, this should be
+treated as if the fee had been transferred.
+
+
+
+
+8 HEFCE 2010/28
+                                                         a small amount of supervision and they may have
+    Audit tip: Communications between                    access to other facilities at the institution, but they
+    research offices and schools/                        should still be treated as writing-up. Students
+    departments                                          registered for research qualifications awarded
+    Where separate research offices are responsible      primarily on the basis of published works should
+    for maintaining the research student data, it is     also be excluded, unless they are undertaking a
+    essential that good communication processes          significant amount of research at the institution.
+    are set up between the research office and
+                                                         21. Some specialist doctoral degrees, such as Doctor
+    relevant academic departments, to give a timely
+                                                         of Education (EdD) and Doctor of Clinical
+    flow of data and ensure the student record
+                                                         Psychology (DClinPsychol), may include a research
+    system is up to date. This is of particular
+                                                         component but also include significant taught
+    importance around the census date, but is also
+                                                         components and supervised practice. These degrees
+    important throughout the year to get an accurate
+                                                         do not generally require the student to produce the
+    picture of students suspending their studies or
+                                                         same amount of original research as a PhD. Students
+    deciding to withdraw from the course.
+                                                         registered for a specialist doctoral degree should
+                                                         only be included in this survey if they satisfy our
+                                                         other criteria in our definition of a research-based
+Full-time equivalence                                    higher degree (see paragraph 19 of this annex).
+18. For the purpose of this survey, a student’s FTE
+refers to the amount of study undertaken in the year     Four-year research doctorates
+of course compared to a full-time student with the       22. Following our consultation reviewing the
+same qualification aim studying for a full year. A       research funding method (‘Review of research
+student is said to be full-time if they are normally     funding method: consultation’, HEFCE 2003/38),
+required to attend the institution, or elsewhere, for    we pay a standard, cost-weighted tariff for a PhD
+periods amounting to at least 24 weeks within the        programme up to three years (or six years for part-
+year of course; and during that time are normally        time students), irrespective of how long a student
+expected to undertake periods of study that amount       takes to complete the course.
+to an average of at least 21 hours per week.
+                                                         Returning students to the survey
+Research-based higher degrees                            23. Students employed by outside research
+19. A research-based higher degree is a postgraduate     organisations, and based outside the department for
+programme comprising a research component                most of their study, may be included if they are
+(including a requirement to produce original work)       actively supervised by an academic member of staff
+that is larger than any accompanying taught              employed by a higher education institution in
+component when measured by student effort. The           England (see paragraph 1 of this annex).
+arrangements for assuring and maintaining the
+                                                         24. Academic staff who are also registered for a
+academic standards, and enhancing the quality, of
+                                                         research-based higher degree at the same institution
+these programmes should be fully compliant with
+                                                         may be returned to this survey as research students.
+section one of the Quality Assurance Agency for
+Higher Education’s code of practice for the assurance    25. Research students should normally be returned
+of academic quality and standards in higher              to the UOA in which their supervisor is returned.
+education (postgraduate research programmes).            Students who are supervised across more than one
+                                                         UOA should be returned split either according to
+20. Students who have completed their research
+                                                         the agreed division of supervision or in proportion
+work and are writing up their thesis (or equivalent)
+                                                         to the number of supervisors. Figures can be
+should be excluded. Students are considered to be
+                                                         returned to two decimal places.
+writing-up where they have completed their research
+work and will not undertake any significant
+additional research. Such students often still receive
+
+                                                                                                     HEFCE 2010/28 9
+26. Students should be returned to this survey
+according to their year of course. The year of course
+is defined in the data specification of the Higher
+Education Statistics Agency Student Record
+2010-11 and indicates the year number of the
+course that the student is currently studying. The
+year of course needs to be modified when students
+change their mode of study (see paragraphs 6-10 of
+this annex).
+27. Students are classified as Home and EU if they
+can be regarded as eligible students as defined in
+Schedule 1 of the Education (Fees and Awards)
+(England) Regulations 2007 (SI 2007 No. 779), as
+amended. The Education (Fees and Awards)
+Regulations can be found on the UK Statute Law
+Database web-site, www.statutelaw.gov.uk.
+28. The following students should be excluded
+from forms R1a and R1b:
+a.   Students spending most of their programme of
+     study outside the UK, except where there is a
+     clear academic reason for studying abroad
+     rather than in the UK – for example, the
+     student’s research is tied to a specific
+     archaeological site or the student is temporarily
+     and unavoidably abroad and remains liable to
+     UK tax on their earnings, or is a dependant of
+     such a person; this includes members of HM
+     Forces and their dependants.
+b.   Students franchised to an institution that is not
+     a higher education institution supported from
+     public funds. Where institutions have franchise
+     agreements with any other organisation and
+     wish these students to be included in this
+     survey, they should contact us for approval.
+
+
+
+
+10 HEFCE 2010/28
+Annex B
+Notes on research income from charities
+1. HEFCE introduced a support element for                              clinical work) only that portion of the grant or
+research income from charities within the block                        contract against which research has been
+grant for research in 2006-07. We are asking                           conducted should be returned.
+institutions to provide information about research
+                                                                   d. Where a project is undertaken by several
+income from charitable foundations and trusts in
+                                                                      institutions or organisations and one institution
+the 2009-10 financial year (1 August 2009 to 31
+                                                                      acts as the ‘lead institution’, only income
+July 2010). These data will inform the charity
+                                                                      received and spent by the institution making the
+support element of quality-related research (QR)
+                                                                      return, and relating to the work actually being
+funding for 2011-12.
+                                                                      undertaken by it, should be returned. The lead
+                                                                      institution should not therefore include any
+Eligibility and income criteria                                       portion of income in a particular year passed on
+2. Two high-level eligibility criteria apply to the                   to other institutions or organisations. Other
+income used to inform the QR charity support                          institutions that receive a portion of a grant or
+element of funding:                                                   contract as described in this paragraph should
+a. Research income that is awarded through open                       return the income against its original source.
+   competition, excellence and priority using a                    e. Where an institution acts as a contractor that
+   method of external peer review.                                    sub-contracts research to another institution or
+b. Research income that is awarded by a charity                       organisation, only income received and spent by
+   registered in the UK or an overseas body with                      the institution making the return, and relating to
+   exclusively charitable purposes.                                   the work actually being undertaken by it, should
+                                                                      be returned.
+3. In addition, eligible research income to be
+included in this survey should satisfy the following               f. Income should include any recovery of indirect
+conditions:                                                           costs, whether retained by the institution, a
+                                                                      department, or at the disposal of an individual
+a. Income for research carried out by the institution                 within a department.
+   (including subsidiary undertakings and joint
+   venture entities in the UK) and for which directly              g. Grants for research fellowships and research
+   related expenditure has been incurred.                             studentships should be regarded as research
+                                                                      income.
+b. Income for research that conforms to the
+   conventions of the Frascati1 definition of                      h. Capital grants for research should be regarded as
+   research, which can be summarised as ‘original                     research income.
+   investigation undertaken in order to gain                       i. Income that originates from non-public sources.
+   knowledge and understanding’. It excludes
+                                                                   4. Only income satisfying all of the criteria set out
+   routine testing and routine analysis of materials,
+                                                                   in paragraphs 2 and 3 of this annex, at the level of
+   components and processes such as for the
+                                                                   each individual grant or contract, including grants
+   maintenance of national standards, as distinct
+                                                                   awarded before the 2009-10 financial year, should
+   from the development of new analytical
+                                                                   be returned in the 2010 Research Activity Survey
+   techniques. It also excludes training and the
+                                                                   (RAS). Higher education institutions (HEIs) must be
+   development of teaching materials that do not
+                                                                   able to demonstrate that they have done all that
+   embody original research.
+                                                                   they reasonably can to satisfy themselves about the
+c. Where a charitable grant or contract is made for                eligibility of the income returned. Further
+   a number of different purposes including                        clarification is given below.
+   research (for example research, training and
+
+
+
+1 Second chapter of the Organisation for Economic Co-operation and Development 2002 Frascati manual, ISBN
+9264199039.
+
+                                                                                                            HEFCE 2010/28 11
+5. The institution’s statement of research income                          Open competition and external
+should be prepared in accordance with the principles
+                                                                           peer review
+of the Statement of Recommended Practice:
+                                                                           10. For income to be treated as awarded through
+Accounting for Further and Higher Education except
+                                                                           open competition and peer review we require
+for the treatment of research income for
+                                                                           evidence that a particular income stream or grant
+collaborative or sub-contracted research that is
+                                                                           was available to more than one institution through
+passed on to other institutions or organisations.
+                                                                           direct competition within a process where no
+6. For research studentships that are part of a                            credible candidate was excluded, and awarded to
+research project grant, and for general research                           the institution that demonstrated the highest-quality
+studentships (that is, those not part of a research                        research proposal according to external peer review.
+project grant), the portion of the bursary that                            However, we will also accept as complying with
+relates to tuition fees charged by the university,                         open competition and external peer review,
+consumables or bench fees should be included as                            circumstances where it can be shown that the
+research income in this survey. Any portion of a                           charity took external expert advice on its choice of
+studentship that is to be retained by the student for                      institution to receive a grant, and either:
+maintenance or living costs should be excluded.
+                                                                           a.    The charity had made it known that it was
+                                                                                 open to grant applications from other HEIs and
+Charity funding derived from
+                                                                                 these would present a competing call on the
+government sources                                                               funds, even though the charity did not issue an
+7. The charity support element is not intended to                                open invitation to bid for the particular grant
+support research that is already funded from public                              in question.
+sources. Where a charity exists to allocate
+                                                                           b.    The charity restricted the funding opportunity
+government funds, or where in fact a charity
+                                                                                 on a reasoned basis that there were particular
+allocates funds that come wholly or mainly from
+                                                                                 requirements of the project that could only be
+government sources, this income is not eligible.
+                                                                                 met by a limited number of HEIs2.
+8. So, income awarded by the Royal Society and
+                                                                           11. Any long-term grant or funded programme will
+British Academy from grants made to them by the
+                                                                           not be eligible unless it is subject to periodic review
+UK government to be disbursed on its behalf should
+                                                                           involving external expert advice and if it competes
+be excluded from this survey. Income awarded by
+                                                                           with other demands on the charity’s funds, at
+these bodies and funded from non-government
+                                                                           intervals of no more than five years3.
+sources should be returned where the HEI has
+received confirmation from the awarding body that                          12. We have identified a number of charities, listed
+the grant or contract was not government-funded.                           below, that provide very substantial amounts of
+Institutions in any doubt as to the status of such                         research funding across a number of HEIs and
+income should speak to HEFCE at the earliest                               whose grants have been found in all audited cases
+opportunity (contact Davina Madden, tel 0117 931                           to have met the eligibility criteria at paragraphs 2a
+7266, e-mail d.madden@hefce.ac.uk).                                        and 2b of this annex:
+
+9. Income awarded through initiatives funded jointly                       •     Arthritis Research Campaign
+by HEFCE and charities, such as the Joint                                  •     British Heart Foundation
+Infrastructure Fund, is not eligible. HEFCE decides its
+level of contribution to these initiatives at the time of                  •     Cancer Research UK
+their establishment, taking sustainability into account.                   •     Diabetes UK
+
+
+
+2 This could arise, for example, where a project required highly specialist expertise or facilities, or a specific regional focus.
+3 Where the initial award of the grant was for a period of longer than five years, the income may be eligible for up to a maximum of
+seven years after the initial award without periodic review; thereafter it will not continue to be eligible unless subject to periodic reviews
+at intervals of no more than five years.
+
+12 HEFCE 2010/28
+•         Leukaemia Research Fund                                        generally regard income from these charities to meet
+                                                                         the criteria for open competition and external peer
+•         The Health Foundation
+                                                                         review. Institutions will remain responsible for
+•         The Leverhulme Trust                                           ensuring that all returned income is eligible;
+•         The Wellcome Trust.                                            however in auditing RAS data we will not enquire
+                                                                         about grants from these charities, unless a grant is
+13. We will seek assurances directly from these
+                                                                         identified by the charity as a potential exception.
+charities that their grants in general continue to
+meet the criteria for open competition and external                      14. This is not intended to be an exhaustive list of
+peer review, and that they will make known any                           charities whose grants generally meet the criteria of
+potential exceptions to this. In order to improve the                    open competition and external peer review. We
+efficiency of administering the charity element of                       would normally expect that members of the
+QR funding and the associated data audits, we will                       Association of Medical Research Charities would
+                                                                         meet these criteria.
+
+
+
+    Charitable purposes listed by the Charities Act 2006
+    ‘(1) For the purposes of the law of England and Wales, a charitable purpose is a purpose which falls within any of the
+           following descriptions:
+
+    (a)    the prevention or relief of poverty;
+
+    (b)    the advancement of education;
+
+    (c)    the advancement of religion;
+
+    (d)    the advancement of health or the saving of lives;
+
+    (e)    the advancement of citizenship or community development;
+
+    (f)    the advancement of the arts, culture, heritage or science;
+
+    (g)    the advancement of amateur sport;
+
+    (h)    the advancement of human rights, conflict resolution or reconciliation or the promotion of religious or racial
+           harmony or equality and diversity;
+
+    (i)    the advancement of environmental protection or improvement;
+
+    (j)    the relief of those in need by reason of youth, age, ill-health, disability, financial hardship or other disadvantage;
+
+    (k)    the advancement of animal welfare;
+
+    (l)    the promotion of the efficiency of the armed forces of the Crown, or of the efficiency of the police, fire and rescue
+           services or ambulance services;
+
+    (m) any other purposes that may reasonably be regarded as analogous to, or within the spirit of, the purposes listed
+           above.
+
+    In all cases it is essential that the purposes are also for the public benefit as set out in the Public Benefit Guidance
+    published by the Charity Commission for England and Wales.’
+
+
+
+
+                                                                                                                        HEFCE 2010/28 13
+Charitable purposes                                                      HEFCE at the earliest opportunity (contact Davina
+                                                                         Madden, tel 0117 931 7266, e-mail
+15. Only research income that is awarded by a
+                                                                         d.madden@hefce.ac.uk).
+charity registered in the UK4 or an overseas body with
+exclusively charitable purposes, consistent with the
+definition set out in the Charities Act 2006 and which                         Audit tip
+exists for the public benefit in a manner which is
+                                                                               We undertook a desk-based audit of 14
+consistent with the Public Benefit Guidance published                          institutions showing large differences between
+by the Charity Commission for England and Wales, is                            the research income from charities returned to
+eligible. There is a separate column(s) in the 2010 RAS                        the 2009 RAS compared to what they returned
+for institutions to report income from overseas bodies.                        to the 2008-09 Higher Education Statistics
+16. Research income from UK and overseas                                       Agency (HESA) Finance Statistics Return (FSR)
+                                                                               Table 5b. Issues that we encountered included:
+governments, the NHS, Research Councils, and
+industrial sources should be excluded.                                         •    research income from capital grants being
+                                                                                    incorrectly omitted from the HESA FSR
+17. HEIs in the UK have charitable status but they
+                                                                                    Table 5b
+should not be regarded as charities for the purposes of
+this survey. Likewise, overseas HEIs should also not be                        •    research income being incorrectly returned
+regarded as charities for the purposes of this survey.                              in HESA FSR Table 5b in one of the ‘open
+                                                                                    competitive process’ charities sources
+18. In practice we recognise that determining                                       columns (columns 2, 7 or 10), when in fact
+whether or not each and every grant from an                                         the income was either not from a charity or
+overseas body satisfies this test may be unduly                                     was not awarded through an open,
+burdensome. We therefore recommend that                                             competitive process.
+institutions begin by identifying whether the
+awarding body has charitable status in its home
+jurisdiction. In most cases this will serve as an                        Capital grants
+adequate proxy for the criteria described above.                         21. There is a separate column(s) in the 2010 RAS
+However, institutions should pay close attention to                      for institutions to report capital grants.
+any bodies that seem to be in danger of not
+                                                                         22. Existing capital grants must meet the criteria
+satisfying the test of eligibility in England and
+                                                                         set out in paragraphs 2 and 3 of this annex if they
+Wales, either because their objectives appear to be
+                                                                         are to continue to be eligible.
+on the margins of the definition described above
+(for example, groups campaigning for political                           23. Grants from eligible charities for the
+change) or because they are based in a jurisdiction                      refurbishment of research facilities should be treated
+where the definition of charity may be significantly                     as capital grants, and included in this survey. If the
+different to that which prevails in England.                             grant has been capitalised it is the amount released
+                                                                         from the deferred capital grant account that should
+19. For universities in Northern Ireland, the
+                                                                         be returned. However, if the refurbishment grant
+elements of grants awarded from the Support
+                                                                         has not been capitalised the income should be
+Programme for University Research that are
+                                                                         returned in full if it was receivable in 2009-10.
+provided from Atlantic Philanthropies should not be
+returned under any of the charity columns for grants
+                                                                         Other factors
+awarded through an open competitive process.
+                                                                         24. Where a grant or contract is held across more
+20. Institutions in any doubt as to the status of                        than one unit of assessment, its value should be
+awarding bodies based overseas should speak to                           divided in proportion to the number of grant or
+                                                                         contract holders.
+
+
+
+4 These are charities registered with the Charity Commission for England and Wales, Scottish charities registered with the Office of the
+Scottish Charity Regulator and charities in Northern Ireland recognised as having charitable status by HM Revenue and Customs or
+registered with the Charity Commission for Northern Ireland.
+
+14 HEFCE 2010/28
+Annex C
+Samples of forms for completion
+This annex can be downloaded from the HEFCE web-site as an Excel file alongside this report.
+
+
+
+
+                                                                                 HEFCE 2010/28 15
+16 HEFCE 2010/28
+HEFCE 2010/28 17
+Annex D
+Instructions for completing the workbook
+1. Workbooks with spreadsheet versions of the             5. All labels and table formats will be protected.
+tables in Annex C will be available for institutions      Institutions must not attempt to alter the format of
+to download in November 2010. In November,                the tables by adding or deleting columns or rows.
+vice-chancellors/principals and Research Activity         Only cells where data are required should be
+Survey (RAS) contacts will be issued with an              altered, and all worksheets returned should have the
+institution key (unique to each institution) and a        same name and format as those originally supplied.
+RAS group key (unique to the 2010 RAS survey) to
+                                                          6. Worksheet R1b contains validation checks to
+access the workbook through the HEFCE extranet,
+                                                          ensure headcounts and full-time equivalents (FTEs)
+http://extranet.hedata.ac.uk. Institutions should
+                                                          are returned correctly. Institutions should ensure
+electronically submit the completed workbook to
+                                                          their data pass all validation checks before
+the same web-site.
+                                                          uploading them.
+2. On viewing the welcome screen, you will be
+                                                          7. Below is an example of how the worksheets are
+asked to log in or register for access to the site. The
+                                                          laid out in the workbook. Each table is on a
+first time that you visit the HEFCE extranet, you
+                                                          separate worksheet, which is accessed by clicking on
+must register. This involves typing in your e-mail
+                                                          the tab at the bottom of the screen. The name of the
+address, your institution key, your RAS group key
+                                                          worksheet is displayed on the tab.
+and setting a password (at least eight characters
+long and a mixture of letters and numbers).               8. When the worksheets have been completed, the
+Whenever you visit the site after registration            file should be saved on your system. All worksheets
+(including to access other surveys), you will only        in the workbook should be returned even if they
+need to enter your e mail address and password. In        contain no data.
+case of difficulty, please contact                        9. Completed returns must be submitted to the
+extranet@hefce.ac.uk.                                     HEFCE extranet no later than noon on Tuesday 14
+3. Once you have logged in you can then download          December 2010. When the return has been
+the blank RAS template, and save it on your system        successfully uploaded, a confirmation message will
+(the template cannot be completed online).                be displayed.
+
+4. The workbook will be saved in Excel 2003               10. Survey data must be signed off as correct by
+format and called RAS10___.xls, where the suffix          the vice-chancellor or principal of the institution by
+identifies your institution. Please do not attempt to     Thursday 13 January 2011.
+rename or reformat the file because our computer
+systems for loading institutions’ returns depend on
+the file-naming convention and file formats. The
+workbook will contain three worksheets. These are
+as follows:
+R1A_____ Home and EU fee-paying full-time
+         postgraduate research students by year
+         of course
+R1B_____ Home and EU fee-paying part-time
+         postgraduate research students by year
+         of course
+R2_____      Research income from charities in
+             2009-10.
+
+
+
+
+18 HEFCE 2010/28
+Click on these tabs to open the worksheet that contains the
+table you want to fill in.
+
+
+
+
+                                                              HEFCE 2010/28 19
+List of abbreviations
+EU                 European Union
+
+FTE                Full-time equivalent
+
+FSR                Finance Statistics Return
+
+HEFCE              Higher Education Funding Council for England
+
+HEI                Higher education institution
+
+HESA               Higher Education Statistics Agency
+
+HESES              Higher Education Students Early Statistics
+
+QR                 Quality-related research
+
+RAE2008            The 2008 Research Assessment Exercise
+
+RAS                Research Activity Survey
+
+RDP                Research degree programme
+
+UOA                Unit of assessment
+
+
+
+
+20 HEFCE 2010/28
+Higher Education Funding Council for England
+Northavon House
+Coldharbour Lane
+BRISTOL
+BS16 1QD
+tel 0117 931 7317
+fax 0117 931 7203
+www.hefce.ac.uk
+

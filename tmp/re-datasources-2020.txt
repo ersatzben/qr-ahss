@@ -1,0 +1,84 @@
+Data sources for mainstream QR funding
+Our mainstream quality-related research (QR) funding is allocated selectively according to quality.
+
+The source data we have used to calculate mainstream QR funding for 2020-21 has not changed since the 2015-16 mainstream QR funding
+allocations. We use data from the 2014 Research Excellence Framework (REF 2014), with the volume measure calculated from Category A FTE
+staff submitted to REF 2014 attributable to quality levels 3* and 4*.
+
+In the mainstream QR funding Excel file the column headed 'Quality-weighted volume' contains the volume measure multiplied by the quality
+weighting. For 2020-21, the following quality weightings were applied to the REF 2014 quality sub-profiles:
+
+ Quality level           4*                       3*                         2*                       1*               Unclassified
+
+ Quality weighting       4                        1                          0                        0                0
+
+
+
+
+                                                                         1
+Data sources for QR RDP supervision funding
+The following data were used to allocate the QR Research degree programme (RDP) supervision fund:
+
+ Indicator            Source of data for 2017-18 Source of data for 2018-19 Source of data for 2019-20 Source of data for 2020-21
+
+ Eligible             HESA Student Record           HESA Student Record           HESA Student Record           HESA 2018-19 Student
+ postgraduate         returns covering the period   returns covering the period   returns covering the period   Record
+ research student     2010-11 to 2015-16            2011-12 to 2016-17            2012-13 to 2017-18
+ FTEs
+
+
+
+
+                                                                     2
+Data sources for QR charity support funding
+The following data were used to allocate funds for the QR Charity support element:
+
+ Indicator              Source of data for 2017-18 Source of data for 2018-19 Source of data for 2019-20 Source of data for 2020-21
+
+ Research income        Average of 2012-13, 2013-       Average of 2013-14, 2014-       Average of 2014-15, 2015-       Average of 2015-16, 2016-
+ from UK, EU and        14, 2014-15 and 2015-16         15, 2015-16 and 2016-17         16, 2016-17 and 2017-18         17, 2017-18 and 2018-19
+ non-EU-based           income taken from HESA          income taken from HESA          income taken from HESA          income taken from the
+ charities (open        Finance record Table 5/5b       Finance record Table 5/5b       Finance record Table 5/5b       HESA Finance records and
+ competitive process)   for total/net research grants   for total/net research grants   for total/net research grants   the Office for Students
+                        and contracts and (for the      and contracts and (for          and contracts and (for          Annual Financial Return (for
+                        last year) deferred income      2015-16 only) deferred          2015-16 only) deferred          2018-19) Tables 5 for
+                        deducting co-investment         income, deducting co-           income, deducting co-           total/net research grants
+                        income, and Table 6/6a for      investment income, and          investment income, and          and contracts and (for
+                        research studentships from      Table 6/6a for research         Table 6/6a for research         2015-16 only) deferred
+                        charities                       studentships from charities     studentships from charities     income, deducting co-
+                                                                                                                        investment income, and
+                                                                                                                        Tables 6 for research
+                                                                                                                        studentships from charities
+
+
+
+
+                                                                          3
+Data sources for QR business research funding
+The following data were used to allocate funds for the QR Business research element:
+
+ Indicator              Source of data for 2017-18 Source of data for 2018-19 Source of data for 2019-20 Source of data for 2020-21
+
+ Research income        Average of 2012-13, 2013-       Average of 2013-14, 2014-       Average of 2014-15, 2015-       Average of 2015-16, 2016-
+ from UK, EU and        14, 2014-15 and 2015-16         15, 2015-16 and 2016-17         16, 2016-17 and 2017-18         17, 2017-18 and 2018-19
+ non-EU industry,       income taken from HESA          income taken from HESA          income taken from HESA          income taken from the
+ commerce and           Finance record Table 5/5b       Finance record Table 5/5b       Finance record Table 5/5b       HESA Finance records and
+ public corporations    for total/net research grants   for total/net research grants   for total/net research grants   the Office for Students
+                        and contracts and (for the      and contracts and (for          and contracts and (for          Annual Financial Return (for
+                        last year) deferred income      2015-16 only) deferred          2015-16 only) deferred          2018-19) Tables 5 for
+                        deducting co-investment         income deducting co-            income deducting co-            total/net research grants
+                        income                          investment income               investment income               and contracts and (for
+                                                                                                                        2015-16 only) deferred
+                                                                                                                        income deducting co-
+                                                                                                                        investment income
+
+
+
+
+For further information, please email data_queries@re.ukri.org.
+
+
+
+
+                                                                          4
+
